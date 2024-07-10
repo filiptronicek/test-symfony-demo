@@ -5,7 +5,7 @@ Symfony Demo Application
 
 The "Symfony Demo Application" is a reference application created to show how
 to develop applications following the [Symfony Best Practices][1].
-fffff
+ffffff
 
 Requirements
 ------------
